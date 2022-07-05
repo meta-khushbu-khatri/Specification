@@ -2,7 +2,7 @@ public class area{
 	
 public static void main(String args[]){
 	
-	double r=3.2;
+	double radius=3.2;
 	double a=4.0,h=10.0,w=20.0,l=10.0,b=21.0;
 	
 	System.out.println("area of circle is:-" +circle(r));
